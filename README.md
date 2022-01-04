@@ -18,7 +18,8 @@ In This repo :
 
 ## Each project holds:
 
-- Source code in C language 
+- Source file code in C language 
+- Object file 
 - Readme file
 - tests
 
