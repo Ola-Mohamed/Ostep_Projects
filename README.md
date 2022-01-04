@@ -23,6 +23,10 @@ In This repo :
 - Readme file
 - tests
 
+## -o in a nutshell
+
+![-o](https://user-images.githubusercontent.com/56696104/147993655-6d186f9a-092c-45b4-9b6a-d23b3ba492cc.png)
+
 
 ## Our Team :
 
