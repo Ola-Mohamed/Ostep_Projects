@@ -3,11 +3,16 @@
 
 >____________________________________________________________________________________
  
-> Description:
- `wcat` this program is designed to be a recreation of the cat command on the Linux terminal and will serve to print the contents of a file to the terminal screen for each consecutive
+> Description
+
+
+ `wcat`  this program is designed to be a recreation of the cat command on the Linux terminal and will serve to print the contents of a file to the terminal screen for each consecutive
+ 
 
 >____________________________________________________________________________________
- >Useage:
+ >Useage
+
+
  we compile the code file as follows:
 ```
 prompt> gcc -o wcat wcat.c -Wall 
