@@ -23,7 +23,9 @@ after that will run tests but  firstly have to give a running permission for the
 prompt> chmod u+x ./test-wcat.sh
 prompt> ./test-wcat.sh
 ```
-The Output:
+
+The Output
+
 ![GitHub Light](https://github.com/Ola-Mohamed/Ostep_Projects/blob/main/Wcat/Screenshot%202022-01-05%20143954.png)
 
 The wcat expression take this following form:
