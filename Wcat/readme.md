@@ -32,5 +32,13 @@ The wcat expression take this following form:
 ```
 ./ wcat [FILE_NAMES]
 ```
+>____________________________________________________________________________________
+Displaying File Contents
 
+The most basic and common usage of the wcat command is to read the contents of files.
+
+For example, the following command will display the contents of the testfile.txt file on the terminal:
+```
+./wcat testfile.txt
+```
 >____________________________________________________________________________________
