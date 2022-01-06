@@ -26,7 +26,7 @@ prompt> ./test-wcat.sh
 
 The Output
 
-![GitHub Light](https://github.com/Ola-Mohamed/Ostep_Projects/blob/main/Wcat/Screenshot%202022-01-05%20143954.png)
+![GitHub Light](https://github.com/Ola-Mohamed/Ostep_Projects/blob/main/Wcat/wcat%20test.png)
 
 The wcat expression take this following form:
 ```
