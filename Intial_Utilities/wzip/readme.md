@@ -39,5 +39,5 @@ test 7: passed
 
 #### This screenshot shows all the steps that we used :
 
-![GitHub Light](https://github.com/Ola-Mohamed/Ostep_Projects/blob/main/wzip/wzip%20test.png)
+![GitHub Light](https://github.com/Ola-Mohamed/Ostep_Projects/blob/main/Intial_Utilities/wzip/wzip%20test.png)
 
