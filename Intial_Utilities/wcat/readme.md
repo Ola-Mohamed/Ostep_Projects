@@ -24,7 +24,7 @@ prompt> ./test-wcat.sh
 
 The Output
 
-![GitHub Light](https://github.com/Ola-Mohamed/Ostep_Projects/blob/main/Wcat/wcat%20test.png)
+![GitHub Light](https://github.com/Ola-Mohamed/Ostep_Projects/blob/main/Intial_Utilities/wcat/wcat%20test.png)
 
 The wcat expression take this following form:
 ```
