@@ -41,6 +41,6 @@ test 6: passed
 
 #### This screenshot shows all the steps that we used :
 
-![GitHub Light](https://github.com/Ola-Mohamed/Ostep_Projects/blob/main/wunzip/wunzip%20test.png)
+![GitHub Light](https://github.com/Ola-Mohamed/Ostep_Projects/blob/main/Intial_Utilities/wunzip/wunzip%20test.png)
 
 
