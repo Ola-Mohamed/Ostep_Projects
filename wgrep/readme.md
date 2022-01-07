@@ -34,6 +34,7 @@ The wgrep expression take this following form:
 ---
 **To Search a File**
 The most basic and common usage of the wgrep command is to search in the contents of files.
+
 ---
 For example, the following command will print out any line containing "Hello" in the testfile.txt file on the terminal
 ```
