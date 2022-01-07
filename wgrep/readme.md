@@ -32,7 +32,9 @@ The wgrep expression take this following form:
 
 
 ---
-**To Search a File**
+To Search a File
+---
+
 The most basic and common usage of the wgrep command is to search in the contents of files.
 
 ---
