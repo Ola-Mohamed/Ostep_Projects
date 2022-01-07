@@ -23,7 +23,7 @@ prompt> ./test-wgrep.sh
 
 The Output
 
-![GitHub Dark](https://github.com/Ola-Mohamed/Ostep_Projects/blob/main/wgrep/wgerp%20test.png)
+![GitHub Dark](https://github.com/Ola-Mohamed/Ostep_Projects/blob/main/Intial_Utilities/wgrep/wgerp%20test.png)
 
 The wgrep expression take this following form:
 ```
