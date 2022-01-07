@@ -1,5 +1,5 @@
 ## This repository holds the source code and  test cases for "wzip" program
->____________________________________________________________________________________
+---
 > **Description**
 ---
 `wzip` :  
@@ -36,6 +36,8 @@ test 7: passed
 ```
 ./wzip [FILES_NAME] 
 ```
+
+#### This screenshot shows all the steps that we used :
 
 ![GitHub Light](https://github.com/Ola-Mohamed/Ostep_Projects/blob/main/wzip/wzip%20test.png)
 
