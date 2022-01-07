@@ -3,33 +3,31 @@
 #include <stdlib.h>    // exit
 #include <string.h>    // strerror
 
-#define buffer_size 1024
+#define BUFFER_SIZE 1024 				//this means : BUFFER_SIZE = 1024
 
 int main(int argc, char *argv[])
 {
-    FILE *fp;                                            // pointer to a FILE object
+    FILE *fp;
+    char buff[BUFFER_SIZE];
 
-    char buffer[buffer_size];
-
-    for (size_t i = 1; i < argc ; i++)
+    for (size_t i = 1; i < argc; i++)
     {
-        if ((fp = fopen(argv[i], "r")) == NULL)       	 // if the file cannot be opened
+        if ((fp = fopen(argv[i], "r")) == NULL) //The file not exist, the file cannot be opened.
         {
-            printf("wcat: file cannot open \n");
-            exit(EXIT_FAILURE);                       	 // EXIT
+            printf("wcat: cannot open file\n");	//Warnint message.
+            exit(EXIT_FAILURE);			//Exit
         }
 
-        while (fgets(buffer, buffer_size, fp))         		// used to get input from file, one line at a time.
-            printf("%s", buf);
+        while (fgets(buff, BUFFER_SIZE, fp))	//The file eixsts, and copying  characters to buffer.
+            printf("%s", buff);			//Print out the buffer content
 
+        // For debugging
         errno = 0;
-        if (fclose(fp) != 0) {                       	// if the file cannot be closed
-            strerror(errno);                       	    // error message for not closed file
+        if (fclose(fp) != 0) {			//Check of the file cannot be closed.
+            strerror(errno);				//Print the error on the output screen
             exit(EXIT_FAILURE);
         }
     }
-
-
 
     return 0;
 }
