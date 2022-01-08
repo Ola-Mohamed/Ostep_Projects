@@ -105,9 +105,3 @@ the output will be:
 ![WhatsApp Image 2022-01-08 at 06 24 46](https://user-images.githubusercontent.com/61296209/148634315-8d631628-7443-4994-8589-a49631d51dc6.jpeg)
 
 
-# This Project was under supervision of:
-
-- Dr. Marwa Yousef
-- Eng. Manal Abd-elmawgood
-
-
