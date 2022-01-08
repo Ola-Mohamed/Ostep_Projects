@@ -57,7 +57,7 @@ Oh I almost forgot... Becareful and remember to initialize all locks and conditi
 #include <sys/mman.h> //Library for mmap
 #include <pthread.h>   //Library for threads
 #include <sys/stat.h> //Library for struct stat
-#include <assert.h> // to use assert()
+#include <assert.h> // to use assert() used for wrapping and optimizing the code
 ```
 
 
