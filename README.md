@@ -1,44 +1,44 @@
-### OStep_project
+# OSTEP Project
 
-## This Repository contains some of  source code and test files for some projects from [OSTEP Book ]
+> This Repository contains some of  source code and test files for some projects from [OSTEP Book].
 
+Our repo will cover :
 
+- `wcat` that simulates the `cat` command in Linux.
+- `wgrep` that simulates the `grep` command in Linux.
+- `wzip` that simulates the `zip` command in Linux.
+- `wunzip` that simulates the `unzip` command in Linux.
+- `pzip` that simulates the `zip` command in Linux but with a parallelized concept.
 
-In This repo :
-- `wcat` that simulates the `cat` command in linux.
+------
 
- - `wgrep` that simulates the `grep` command in linux.
-
-- `wzip` that simulates the `zip` command in linux.
-
-- `wunzip` that simulates the `unzip` command in linux.
-
-- `pzip` that simulates the `zip` command in linux but with a parallelized concept.
-
-
-## Each project holds:
+#### Our project holds:
 
 - Source file code in C language 
 - Object file 
 - Readme file
-- tests
+- Tests
 
-## -o in a nutshell
+------
 
-![-o](https://user-images.githubusercontent.com/56696104/147993655-6d186f9a-092c-45b4-9b6a-d23b3ba492cc.png)
+#### -o in a nutshell
 
-## This Project was under supervision of:
+![img](https://user-images.githubusercontent.com/56696104/147993655-6d186f9a-092c-45b4-9b6a-d23b3ba492cc.png)
+
+------
+
+#### Under supervision:
 
 - Dr. Marwa Yousef
-- Eng. Manal Abd-elmawgood
+- Eng. Manal Abd Al-Mawgood
 
-## Our Team :
+------
+
+#### Team work:
 
 - [Ola Mohamed Ahmed](https://github.com/Ola-Mohamed)
-- [Abd-Elrahman Hesham](https://github.com/Red-Cloud2000)
-- [AbdElrahman Atef](https://github.com/Abdelrahman-Atef-Elsayed)
+- [Abd Al-Rahman Hesham](https://github.com/Red-Cloud2000)
+- [Abd Al-Rahman Atef](https://github.com/Abdelrahman-Atef-Elsayed)
 - [Ahmed Gamal](https://github.com/ahmedokka29)
-- [Ramzi Mohamad](https://github.com/RamziMohamad)  
+- [Ramzi Muhammad](https://github.com/RamziMuhammad)
 - [Maryam Azab](https://github.com/Maryamazab)
-
-
